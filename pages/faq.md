@@ -1,7 +1,5 @@
 # FAQ
 
-## General Internship Information
-
 - **Q1: [What will I be working on during this internship?](#gii_q1)**
 - **Q2: [What kind of software will we be using for this internship?](#gii_q2)**
 - **Q3: [Where can I find more information about this internship?](#gii_q3)**
@@ -11,8 +9,7 @@
 - **Q7: [If I'm an international student, how soon can I get my paperwork required by my visa?](#gii_q7)**
 - **Q8: [How many pull requests and issues in total do I need to make to finish the steps?](#gii_q8)**
 - **Q9: [How long do I have to complete these steps?](#gii_q9)**
-
-## Technical Issues and Questions
+- 
 
 - **Q1: [What is the purpose of nations and communities, and how do they work together?](#tiq_q1)**
 - **Q2: [How can I enable the Virtualization in order to turn vagrant on?](#tiq_q2)**
@@ -23,7 +20,8 @@
 - **Q7: [What do I do if I already have a github.io with my username?](#tiq_q7)**
 - **Q8: [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?](#tiq_q8)**
 
-## Questions
+## General Internship Information
+
 <a name="gii_q1">_**Q: What will I be working on during this internship?**_<a/>
 OLE virtual interns will be helping develop OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
 
@@ -50,7 +48,7 @@ To finish the initial steps, you need to make a **minimum** of four issues and f
 
 <a name="gii_q9">_**Q: How long do I have to complete these steps?**_<a/>
 There is no official deadline, work on your own time. However, please note that most people who continued into the internship program completed the steps within 7-8 days. 
-
+## Technical Issues and Questions
 <a name="tiq_q1">_**Q: What is the purpose of nations and communities, and how do they work together?**_<a/>
 We use the nation/community infrastructure because we often deploy our software in places without internet. Nations are the service sitting in the cloud (which are connected to the internet). Communities, which run locally on Raspberry Pi’s and/or laptops, are run on an *intranet* but are most of the time not connected to the *internet*. Because nations are connected to the internet, they allow a connection process between us (with internet) and users on communities (without internet). To sync with a nation, however, a community needs to be connected to the internet so that information can be sent in both directions.
 
