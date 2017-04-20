@@ -1,25 +1,5 @@
 # FAQ
 
-- **Q1: [What will I be working on during this internship?](#gii_q1)**
-- **Q2: [What kind of software will we be using for this internship?](#gii_q2)**
-- **Q3: [Where can I find more information about this internship?](#gii_q3)**
-- **Q4: [What are the hours of the internship?](#gii_q4)**
-- **Q5: [Is this a paid internship?](#gii_q5)**
-- **Q6: [What happens after the initial steps?](#gii_q6)**
-- **Q7: [If I'm an international student, how soon can I get my paperwork required by my visa?](#gii_q7)**
-- **Q8: [How many pull requests and issues in total do I need to make to finish the steps?](#gii_q8)**
-- **Q9: [How long do I have to complete these steps?](#gii_q9)**
-- 
-
-- **Q1: [What is the purpose of nations and communities, and how do they work together?](#tiq_q1)**
-- **Q2: [How can I enable the Virtualization in order to turn vagrant on?](#tiq_q2)**
-- **Q3: [Why is the "Submit" button not showing up when I try to submit my survey?](#tiq_q3)**
-- **Q4: [Why does Firefox say “Unable to connect” when I try to load my community?](#tiq_q4)**
-- **Q5: [When I first run BeLL with the `vagrant up` command the download fails, why?](#tiq_q5)**
-- **Q6: [I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?](#tiq_q6)**
-- **Q7: [What do I do if I already have a github.io with my username?](#tiq_q7)**
-- **Q8: [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?](#tiq_q8)**
-
 ## General Internship Information
 
 _**Q: What will I be working on during this internship?**_
