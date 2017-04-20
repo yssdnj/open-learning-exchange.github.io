@@ -1,7 +1,7 @@
 # FAQ
-
+[Q: What will I be working on during this internship?](#q1)
 ## General Internship Information
-*Q: What will I be working on during this internship?*
+<a name="q1">*Q: What will I be working on during this internship?*</a>
 OLE virtual interns will be helping develop OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
 
 *Q: What kind of software will we be using for this internship?*
