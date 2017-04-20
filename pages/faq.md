@@ -1,5 +1,5 @@
 # FAQ
-- **Q1: [What will I be working on during this internship?](#gii-q1)**
+- **Q1: [What will I be working on during this internship?](#gii_q1)**
 - **Q2: [What kind of software will we be using for this internship?](#gii_q2)**
 - **Q3: [Where can I find more information about this internship?](#gii_q3)**
 - **Q4: [What are the hours of the internship?](#gii_q4)**
@@ -20,7 +20,7 @@
 - **Q8: [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?](#tiq_q8)**
 ## General Internship Information
 
-_**Q: What will I be working on during this internship?**_<a id="gii-q1"></a>
+_**Q: What will I be working on during this internship?**_
 OLE virtual interns will be helping develop OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
 
 _**Q: What kind of software will we be using for this internship?**_
