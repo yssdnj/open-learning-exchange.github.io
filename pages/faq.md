@@ -6,7 +6,7 @@
 #### Q: What will I be working on during this internship
 OLE virtual interns will be helping develop OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
 
-#### Q: What kind of software will we be using for this internship
+#### *Q: What kind of software will we be using for this internship*
 As a part of this internship you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js.
 
 *Q: Where can I find more information about this internship?*
