@@ -5,7 +5,7 @@
 - **Q2: [What kind of software will we be using for this internship?](faq.md#Q:_What_kind_of_software_will_we_be_using_for_this_internship?)**
 - **Q3: [Where can I find more information about this internship?](faq.md#Q:_Where_can_I_find_more_information_about_this_internship?)**
 - **Q4: [What are the hours of the internship?](faq.md#Q:_What_are_the_hours_of_the internship?)**
-- **Q5: [Is this a paid internship?](faq.md#Q:_)**
+- **Q5: [Is this a paid internship?](faq.md#Q:_Is_this_a_paid_internship?)**
 - **Q6: [What happens after the initial steps?](faq.md#Q:_)**
 - **Q7: [If I'm an international student, how soon can I get my paperwork required by my visa?](faq.md#Q:_)**
 - **Q8: [How many pull requests and issues in total do I need to make to finish the steps?](faq.md#Q:_)**
@@ -33,7 +33,7 @@ More information about the internship can be found here: http://www.indeed.com/j
 #### _**Q: What are the hours of the internship?**_
 This is an intensive internship that requires 16 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 
-_**Q: Is this a paid internship?**_
+#### _**Q: Is this a paid internship?**_
 Unfortunately no. This position is unpaid, but it will provide a diverse range of experiences in the workplace. It can provide a certificate of completion, upon request. Also, academic credit can be provided through your institution (if applicable).
 
 _**Q: What happens after the initial steps?**_
