@@ -6,10 +6,10 @@
 - **Q3: [Where can I find more information about this internship?](faq.md#Q:_Where_can_I_find_more_information_about_this_internship?)**
 - **Q4: [What are the hours of the internship?](faq.md#Q:_What_are_the_hours_of_the internship?)**
 - **Q5: [Is this a paid internship?](faq.md#Q:_Is_this_a_paid_internship?)**
-- **Q6: [What happens after the initial steps?](faq.md#Q:_)**
-- **Q7: [If I'm an international student, how soon can I get my paperwork required by my visa?](faq.md#Q:_)**
-- **Q8: [How many pull requests and issues in total do I need to make to finish the steps?](faq.md#Q:_)**
-- **Q9: [How long do I have to complete these steps?](faq.md#Q:_)**
+- **Q6: [What happens after the initial steps?](faq.md#Q:_What_happens_after_the_initial_steps?)**
+- **Q7: [If I'm an international student, how soon can I get my paperwork required by my visa?](faq.md#Q:_If_I'm_an_international_student,_how_soon_can_I_get_my_paperwork_required_by_my_visa?)**
+- **Q8: [How many pull requests and issues in total do I need to make to finish the steps?](faq.md#Q:_How_many_pull_requests_and_issues_in_total_do_I_need_to_make_to_finish_the_steps?)**
+- **Q9: [How long do I have to complete these steps?](faq.md#Q:_How_long_do_I_have_to_complete_these_steps?)**
 - 
 
 - **Q1: [What is the purpose of nations and communities, and how do they work together?](#tiq_q1)**
@@ -21,31 +21,31 @@
 - **Q7: [What do I do if I already have a github.io with my username?](#tiq_q7)**
 - **Q8: [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?](#tiq_q8)**
 
-#### _**Q: What will I be working on during this internship?**_
+#### Q: What will I be working on during this internship?
 OLE virtual interns will be helping develop OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
 
-#### _**Q: What kind of software will we be using for this internship?**_
+#### Q: What kind of software will we be using for this internship?
 As a part of this internship you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js.
 
-#### _**Q: Where can I find more information about this internship?**_
+#### Q: Where can I find more information about this internship?
 More information about the internship can be found here: http://www.indeed.com/jobs?q=%22virtual+software+engineer+intern%22&l=Cambridge%2C+MA
 
-#### _**Q: What are the hours of the internship?**_
+#### Q: What are the hours of the internship?
 This is an intensive internship that requires 16 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 
-#### _**Q: Is this a paid internship?**_
+#### Q: Is this a paid internship?
 Unfortunately no. This position is unpaid, but it will provide a diverse range of experiences in the workplace. It can provide a certificate of completion, upon request. Also, academic credit can be provided through your institution (if applicable).
 
-_**Q: What happens after the initial steps?**_
+#### Q: What happens after the initial steps?
 The initial steps are meant to introduce potential interns to the OLE BeLL software and the process that we use to develop features and improve upon the BeLL. To be more clear: the initial 10 steps are a vetting process to determine whether or not people are fit for the internship, so consider it an interview for the internship. Once you have completed the 10 steps and are approved, you have officially joined the OLE interns team! We’ll add you to the interns Gitter chatroom and assign you to a team. You and your team will be working on an assignment, and we’ll switch up the assignments each week.
 
-_**Q: If I'm an international student, how soon can I get my paperwork required by my visa?**_
+#### Q: If I'm an international student, how soon can I get my paperwork required by my visa?
 After you finish the first 10 steps, let us know if you need us to sign some paperwork or provide you with an offer letter for your visa. Since the first 10 steps are a vetting process, your internship technically doesn't start until you finish them. Think of the first 10 steps as a continued application process as you are not working or adding to our organizational software, but rather showing that you have enough technical background to work with us. We are more than happy to speak to you about providing you with an offer letter or assisting with organizational information once you complete the 10 steps, but as you are not working with us until you are officially an intern, we cannot provide proof of working with us until you compete the first steps.
 
-_**Q: How many pull requests and issues in total do I need to make to finish the steps?**_
+#### Q: How many pull requests and issues in total do I need to make to finish the steps?
 To finish the initial steps, you need to make a **minimum** of four issues and five pull requests so you can get familiar with GitHub and to show us that you can write proper issues/PRs.
 
-_**Q: How long do I have to complete these steps?**_
+#### Q: How long do I have to complete these steps?
 There is no official deadline, work on your own time. However, please note that most people who continued into the internship program completed the steps within 7-8 days. 
 ## Technical Issues and Questions
 _**Q: What is the purpose of nations and communities, and how do they work together?**_
