@@ -4,7 +4,7 @@
 - **Q1: [What will I be working on during this internship?](faq.md#Q:_What_will_I_be_working_on_during_this_internship?)**
 - **Q2: [What kind of software will we be using for this internship?](faq.md#Q:_What_kind_of_software_will_we_be_using_for_this_internship?)**
 - **Q3: [Where can I find more information about this internship?](faq.md#Q:_Where_can_I_find_more_information_about_this_internship?)**
-- **Q4: [What are the hours of the internship?](faq.md#Q:_What_are_the_hours_of_the internship?)**
+- **Q4: [What are the hours of the internship?](faq.md#Q:_What_are_the_hours_of_the_internship?)**
 - **Q5: [Is this a paid internship?](faq.md#Q:_Is_this_a_paid_internship?)**
 - **Q6: [What happens after the initial steps?](faq.md#Q:_What_happens_after_the_initial_steps?)**
 - **Q7: [If I'm an international student, how soon can I get my paperwork required by my visa?](faq.md#Q:_If_I'm_an_international_student,_how_soon_can_I_get_my_paperwork_required_by_my_visa?)**
@@ -16,7 +16,7 @@
 - **Q2: [How can I enable the Virtualization in order to turn vagrant on?](faq.md#Q:_How_can_I_enable_the_Virtualization_in_order_to_turn_vagrant_on?)**
 - **Q3: [Why is the "Submit" button not showing up when I try to submit my survey?](faq.md#Q:_Why_is_the_"Submit"_button_not_showing_up_when_I_try_to_submit_my_survey?)**
 - **Q4: [Why does Firefox say “Unable to connect” when I try to load my community?](faq.md#Q:_Why_does_Firefox_say_“Unable_to_connect”_when_I_try_to_load_my_community?)**
-- **Q5: [When I first run BeLL with the `vagrant up` command the download fails, why?](faq.md#Q:_When_I_first_run_BeLL_with_the_vagrant_up_command_the_download_fails,_why?)**
+- **Q5: [When I first run BeLL with the "vagrant up" command the download fails, why?](faq.md#Q:_When_I_first_run_BeLL_with_the_"vagrant_up"_command_the_download_fails,_why?)**
 - **Q6: [I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?](faq.md#Q:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;username&gt;.github.io,_can_I_rename_it_or_I_need_to_delete_it?)**
 - **Q7: [What do I do if I already have a github.io with my username?](faq.md#Q:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)**
 - **Q8: [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?](faq.md#Q:_What_do_I_do_if_I_am_on_Unix/Mac/Linux_and_accidentally_give_root_permissions,_corrupting_the_installation_of_the_vagrant_vm?)**
@@ -60,7 +60,7 @@ Please make sure you’re using Firefox, as our BeLL software is only guaranteed
 #### Q: Why does Firefox say “Unable to connect” when I try to load my community?
 Because a community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the BeLL, and `127.0.0.1:5985/apps/_design/bell/MyApp/index.html` to navigate the actual BeLL user interface. 
 
-#### Q: When I first run BeLL with the `vagrant up` command the download fails, why?
+#### Q: When I first run BeLL with the "vagrant up" command the download fails, why?
 You should first check if [Hashicorp's atlas](https://atlas.hashicorp.com/boxes/search) is up and running by looking at the left sidebar :
 
 ![left sidebar](uploads/images/atlas_status.png)
