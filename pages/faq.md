@@ -1,17 +1,36 @@
 # FAQ
 
 ## General Internship Information
+- **Q1: [What will I be working on during this internship?](faq.md#Q:_What_will_I_be_working_on_during_this_internship)**
+- **Q2: [What kind of software will we be using for this internship?](faq.md#Q:_What_kind_of_software_will_we_be_using_for_this_internship)**
+- **Q3: [Where can I find more information about this internship?](faq.md#Q:_Where_can_I_find_more_information_about_this_internship)**
+- **Q4: [What are the hours of the internship?](faq.md#Q:_What_are_the_hours_of_the internship)**
+- **Q5: [Is this a paid internship?](faq.md#Q:_)**
+- **Q6: [What happens after the initial steps?](faq.md#Q:_)**
+- **Q7: [If I'm an international student, how soon can I get my paperwork required by my visa?](faq.md#Q:_)**
+- **Q8: [How many pull requests and issues in total do I need to make to finish the steps?](faq.md#Q:_)**
+- **Q9: [How long do I have to complete these steps?](faq.md#Q:_)**
+- 
 
-_**Q: What will I be working on during this internship?**_
+- **Q1: [What is the purpose of nations and communities, and how do they work together?](#tiq_q1)**
+- **Q2: [How can I enable the Virtualization in order to turn vagrant on?](#tiq_q2)**
+- **Q3: [Why is the "Submit" button not showing up when I try to submit my survey?](#tiq_q3)**
+- **Q4: [Why does Firefox say “Unable to connect” when I try to load my community?](#tiq_q4)**
+- **Q5: [When I first run BeLL with the `vagrant up` command the download fails, why?](#tiq_q5)**
+- **Q6: [I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?](#tiq_q6)**
+- **Q7: [What do I do if I already have a github.io with my username?](#tiq_q7)**
+- **Q8: [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?](#tiq_q8)**
+
+#### _**Q: What will I be working on during this internship?**_
 OLE virtual interns will be helping develop OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
 
-_**Q: What kind of software will we be using for this internship?**_
+#### _**Q: What kind of software will we be using for this internship?**_
 As a part of this internship you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js.
 
-_**Q: Where can I find more information about this internship?**_
+#### _**Q: Where can I find more information about this internship?**_
 More information about the internship can be found here: http://www.indeed.com/jobs?q=%22virtual+software+engineer+intern%22&l=Cambridge%2C+MA
 
-_**Q: What are the hours of the internship?**_
+#### _**Q: What are the hours of the internship?**_
 This is an intensive internship that requires 16 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 
 _**Q: Is this a paid internship?**_
